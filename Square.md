@@ -1,6 +1,6 @@
 # Code:   
 
-   square(A):-
+    square(A):-
     X is A*A,
     write(X).
     
